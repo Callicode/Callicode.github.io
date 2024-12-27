@@ -1,0 +1,55 @@
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-top: auto;
+	width: 50%;
+}
+
+img {
+	border: 5px solid #FFFFFF;
+}
+
+div.list-container {
+	text-align: center;
+	margin-right: 15px;
+}
+
+ul.center-list {
+	display: inline-block;
+	text-align: center;
+}
+
+.button {
+  margin-right: 35px;
+  background-color: #e633ff; /* Green */
+  border: none;
+  color: white;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 100;
+  font-family: "Jersey 15", serif;
+  font-weight: 400;
+  font-style: normal;
+
+}
+
+.thoughtB {
+	background-color: #bbb;
+	text-align: center;
+	font-size: 2000;
+}
+
+.thought {
+
+	background-color: #9A949C;
+	color: white;
+	display: inline-block;
+	margin: 0 auto;
+	overflow: hidden;
+	padding: 14px 25px;
+	text-align: center;
+}
